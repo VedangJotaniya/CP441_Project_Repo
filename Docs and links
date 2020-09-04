@@ -1,24 +1,34 @@
 =>Vijay:
 
 
-=>Vedang:
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-NUM1
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=>Vedang:
+1=>
 OPENPOSE LINK: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 medium article on openpose: https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
 Other implementations of OPENPOSE : https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 Link for other pose estimations on opencv: https://www.learnopencv.com/tag/openpose/
 
+Openpose can extract finger positions..
+
+DensePose:
+densepose.org
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwif9MS1ms_rAhV5IbcAHZaYAAgQFjAAegQIAxAB&url=https%3A%2F%2Fresearch.google.com%2Fpubs%2Farchive%2F42237.pdf&usg=AOvVaw0kogVQRX7iKcMPog6k76R1
+https://medium.com/@kunalchhabria/overview-of-densepose-dense-human-pose-estimation-in-the-wild-67b0eb7c508a
+
+"DensePose can be helpful if openpose or other model fails, because the model can recognise human area, can generate mesh which can be our input to the model for word prediction"
 
 
-
+2=>
 Automatic Indian Sign Language recognition system: (Need access account of ieee)(Paper)
 https://ieeexplore.ieee.org/document/6514343
 
 Indian sign language (ISL) biometrics for hearing and speech impaired persons: review and recommendation: (Paper)
 https://www.researchgate.net/publication/320542789_Indian_sign_language_ISL_biometrics_for_hearing_and_speech_impaired_persons_review_and_recommendation
+
+
 
 
 
